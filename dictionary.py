@@ -17,7 +17,7 @@ deutsch_dictionary ={"Danke": "Thank you",
                      "entschuldigung": "excuse me",
                      "auf wiedersehen": "goodbye",
                      "katze": "cat",
-                     "hund": "dog"
+                     "hund": "dog",
 
                      } 
 Japanese dicitionary = {"arigatou gozaimasu":"thank you",
